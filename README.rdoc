@@ -1,4 +1,0 @@
-== README
-
-My personal clone of a team project instrumental in teaching Git workflow and Kanban, while polishing understanding of ActiveRecord associations in Rails.
-
